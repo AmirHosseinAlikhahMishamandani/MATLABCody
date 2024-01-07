@@ -4,7 +4,7 @@ MATLAB Cody Challenge Solutions: A curated collection of my personal solutions t
 
 ## Welcome to my repository of MATLAB Cody Challenge Solutions!
 
-This repository is dedicated to sharing my personal solutions to various challenges found on MATLAB Cody, an interactive platform for learning and practicing MATLAB programming. The goal of this repository is to provide insights into different approaches to solving MATLAB problems, fostering a collaborative learning environment for MATLAB enthusiasts.
+I'm Amit and this repository is dedicated to sharing my personal solutions to various challenges found on MATLAB Cody, an interactive platform for learning and practicing MATLAB programming. The goal of this repository is to provide insights into different approaches to solving MATLAB problems, fostering a collaborative learning environment for MATLAB enthusiasts.
 
 ## What is MATLAB Cody?
 
